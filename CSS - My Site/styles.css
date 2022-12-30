@@ -1,0 +1,147 @@
+body{
+    margin: 20;
+    text-align:center;
+    font-family: montserrat, sans-sarif;
+    line-height: 2;
+}
+
+hr{
+    border: none;
+    border-top: 8px dotted;
+    width: 7%;
+    margin: 100px auto;
+    color: rgb(125, 184, 240)
+}
+
+h1{
+    font-family: sacramento, sans-sarif;
+    font-size: 90px;
+    color: #3c82aa
+}
+
+h2{
+    font-weight: normal;
+    font-size: 40px;
+    color: #3c82aa;
+    padding-bottom: 10px;
+}
+
+h3{
+    color: rgb(125, 184, 240)
+}
+
+a{
+    color: #3c82aa;
+    font-family: montserrat, sans-sarif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #3c82aa; 
+}
+
+.top-container{
+    background-color: #add1e7;
+    padding-top: 100px
+}
+
+.middle-container{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+
+.bottom-container{
+    background-color: #bfd3df;
+    padding: 50px 0 20px;
+}
+
+.copyright{
+    color:aliceblue;
+    padding: 20px 0;
+}
+
+.profile{
+    width: 50%;
+    margin: auto;
+}
+.contact-me{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: montserrat, sans-sarif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #3c82aa;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+.bottom-cloud{
+    position:absolute;
+    left: 300px;
+    top: 300px
+}
+
+.top-cloud{
+    position:absolute;
+    right: 300px;
+    top: 100px
+}
+
+.flower{
+    width: 150px;
+    margin: 20px 40px;
+}
+
+.tulip{
+    width: 150px;
+    margin: 20px 40px;  
+}
+
+.lavender{
+    width: 150px;
+    margin: 20px 40px;
+}
+
+.sunflower{
+    width: 150px;
+    margin: 20px 40px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.microsoft-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.teacher-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.caitlin-img{
+    margin-top: 30px;
+}
